@@ -1,12 +1,10 @@
-# Project Name
+# uwu cafe
 
-Project Description
+uwu uwu uwu uwu uwu
 
 ## Live Version
 
-This page is not yet deployed.
-
-<!--This page is currently deployed. [View the live website.]()-->
+This page is currently deployed. [View the live website.](https://uwu.cafe)
 
 ## Feedback and Bugs
 
