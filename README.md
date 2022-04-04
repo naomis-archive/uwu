@@ -4,7 +4,7 @@ uwu uwu uwu uwu uwu
 
 ## Live Version
 
-This page is currently deployed. [View the live website.](https://uwu.cafe)
+This project has been archived and is no longer deployed.
 
 ## Feedback and Bugs
 
